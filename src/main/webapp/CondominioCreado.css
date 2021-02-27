@@ -1,0 +1,51 @@
+/*Estilos para el elemento con el id "sin logear"*/
+#sinlogear{
+    margin: auto;
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+}
+
+/*Estilos para el elemento con el id "condominiocreado"*/
+#condominiocreado{
+    margin: auto;
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+}
+/*Estilos para el elemento con el id "imagen"*/
+#imagen{
+    text-align: center;
+    margin: auto;
+    width: 280px;
+    height: 280px;
+}
+/*Estilos para el elemento con el id "picture"*/
+#picture{
+    text-align: center;
+    margin: auto;
+    width: 280px;
+    height: 280px;
+}
+/*Estilos para el botón volver*/
+#btnvolver{
+    font-size: 20px;
+    color: white;
+    padding: 30px;
+    background-color: #075c8e;
+    text-align: center;
+}
+/*Estilos para el elemento con el id "miimagen"*/
+#miimagen{
+    text-align: center;
+    margin: auto;
+    width: 280px;
+    height: 280px;
+}
+/*Estilos para el elemento con el id "sin crear"*/
+#sincrear{
+    margin: auto;
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+}

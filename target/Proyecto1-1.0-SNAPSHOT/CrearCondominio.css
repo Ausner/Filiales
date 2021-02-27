@@ -1,0 +1,77 @@
+/*Estilos para la barra con links que llevan a otras páginas.*/
+#barradenavegacion{
+    background-color: #075c8e;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+    width: 80%;
+    border: black solid 2px;
+}
+
+/*Estilos para el título principal de la página.*/
+h1{
+    color: black;
+}
+
+/*Estilos para el elemento con el id "sinlogear"*/
+#sinlogear{
+    margin: auto;
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+}
+
+/*Estilos para los elementos con la clase "link"*/
+.link{
+    color:white;
+    font-size: 20px;
+    margin: 30px;
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration: underline;
+}
+
+/*Estilos para los formularios.*/
+#formulario, #formulario2{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    margin: auto;
+    padding: 30px;
+    background-color: darkcyan;
+    width: 40%;
+    border: black solid 2px;
+    box-shadow: black 5px 5px;
+    margin-top: 30px;
+}
+/*Estilos para el boton crear condominio1.*/
+#btncrearcondominio{
+    color: white;
+    background-color: orangered;
+    font-size: 17px;
+    padding: 6px;
+}
+/*Estilos para el elemento crearcondominio2*/
+#btncrearcondominio2{
+    color: white;
+    background-color: green;
+    font-size: 17px;
+    padding: 6px;
+}
+
+/*Estilos para el boton cancelar*/
+#btncancelar2{
+    color: white;
+    background-color: red;
+    font-size: 17px;
+    padding: 6px;
+}
+/*Estilos para el elemento con el id "imagen"*/
+#imagen{
+    text-align: center;
+    margin: auto;
+    width: 280px;
+    height: 280px;
+}

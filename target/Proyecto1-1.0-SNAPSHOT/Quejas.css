@@ -1,0 +1,62 @@
+
+/*Estilos para la barra de links que llevan a otras páginas.*/
+#barradenavegacion{
+    background-color: #075c8e;
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+    width: 80%;
+    border: black solid 2px;
+}
+/*Estilos para el elemento con el id "sinlogear"*/
+#sinlogear{
+    margin: auto;
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+}
+
+/*Estilos para los elementos con la clase "link"*/
+.link{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 30px;
+}
+.link:hover{
+    text-decoration: underline;
+}
+
+/*Estilos para el elemento con el id "nocoments"*/
+#nocoments{
+
+    text-align: center;
+    font-size: 30px;
+    border: 2px solid red;
+    margin: auto;
+    padding: 30px;
+    width: 30%;
+}
+/*Estilos para el elemento con el id "comentarios"*/
+#comentarios{
+    text-align: center;
+    margin: auto;
+    padding: 40px;
+    width: 50%;
+    background-color: darkcyan;
+    color: white;
+    margin-top: 10px;
+    border: 2px solid black;
+
+}
+#comentarios:hover{
+    background-color: #ff495a;
+}
+
+/*Estilos para la imagen de la página web*/
+#imagen{
+    text-align: center;
+    margin: auto;
+    width: 280px;
+    height: 280px;
+}
